@@ -143,8 +143,8 @@ body.playlist {
 }
 
 .playlist .caja-video iframe {
-    width: 80vw;
-    height: 45vw;
+    width: 640px;
+    height: 360px;
     max-width: 640px;
     max-height: 360px;
     border: 2px solid #3b5998;
